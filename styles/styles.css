@@ -200,11 +200,19 @@ body {
 }
 
 .contact_link {
+  display: flex;
+  align-items: center;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
   color: #ffffff;
+  text-decoration: none;
+}
+
+.svg {
+  fill: white;
+  margin-right: 15px;
 }
 
 .tech_skills_list,
