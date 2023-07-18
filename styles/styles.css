@@ -165,6 +165,7 @@ body {
 .photo {
   width: 370px;
   margin-bottom: 50px;
+  background-color: #C0C0C0;
 }
 
 .sidebar_title {
